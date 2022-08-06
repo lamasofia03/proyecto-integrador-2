@@ -13,7 +13,7 @@ body {
     font-family: 'lato' , sans-serif;
     font-size: 18px;
     line-height: 1.2;
-    background-color: #fbfbfb ;
+    background-color: #c6a06c ;
     color: #0f0f0f;
     display: block;
 }
@@ -34,7 +34,7 @@ main {
 
 h1 {
     font-size: 48px;
-    color: #af599e;
+    color: #662238;
 }
 
 h2 {
@@ -77,7 +77,7 @@ li.menu.item a {
 }
 
 li.menu-item:hover {
-    background: rgba(175, 89, 158, 0.3);
+    background: #9b6572;
     transition: background-color 0.3s;
 }
 
@@ -155,7 +155,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #af599e;
+    background-color: #662238;
     color: #fbfbfb;
 }
 
